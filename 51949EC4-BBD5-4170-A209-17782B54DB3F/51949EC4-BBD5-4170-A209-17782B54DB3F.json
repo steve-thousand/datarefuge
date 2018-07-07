@@ -1,0 +1,15 @@
+{
+	"Date of capture": "Sun Mar 05 2017 14:11:17 GMT-0600 (CST)",
+	"File formats contained in package": "",
+	"Free text description of capture process": "Python: Selenium and PhantomJS for scrape, LXML for parse.",
+	"Individual source or seed URL": "https://people.nasa.gov",
+	"Institution facilitating the data capture creation and packaging": "",
+	"Name of package creator": "steve",
+	"Name of resource": "",
+	"Type(s) of content in package": "Names and contact information of NASA employees (possibly contractors too? unclear).",
+	"UUID": "51949EC4-BBD5-4170-A209-17782B54DB3F",
+	"recommended_approach": "Data can only be retrieved via using search form. Searching for last name A* yields all last names beginning with A. I attempted searching only for * and discovered it will only return 100 results at a time, with the error \"Size limit exceeded. Only partial result set returned. Please refine search criteria.\" With this in mind, many letters are problematic because there are more than 100 employees with that last initial.",
+	"significance": "Names and contact information of NASA employees (possibly contractors too? unclear).",
+	"title": "NASA Enterprise Directory",
+	"url": "https://people.nasa.gov"
+}
